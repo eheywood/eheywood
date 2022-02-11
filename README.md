@@ -1,6 +1,8 @@
 - 👋 Hiya, I’m Ellie Heywood!
-- 🎓 I am currently studying a BSc degree in Computer Science at the University of Southampton
-- 🌱 Right now I am learning Java but hope to learn a bit of C at some point too.
+- 🎓 I am studying a BSc degree in Computer Science at the University of Southampton.
+- 🌱 Right now I am learning Java, and I am teaching myself C.
+- ✨ I am soon to be working on a project in C.
+- 💬 Languages: python, java 
 - 💞️ Pronouns: she/her
 
 <!---
