@@ -1,7 +1,7 @@
 - 👋 Hiya, I’m Ellie Heywood!
 - 🎓 I am studying a BSc degree in Computer Science at the University of Southampton.
 - 🌱 Right now I am learning Haskell, and I am teaching myself C.
-- ✨ I am currently working on a clone of the game Minesweeper and taking part in the 2022 Advent of Code.
+- ✨ I am currently working on a clone of the game Minesweeper.
 - 💬 Languages: Python, Java, Haskell
 - 💞️ Pronouns: she/her
 
