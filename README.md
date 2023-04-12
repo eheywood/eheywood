@@ -1,7 +1,7 @@
 - 👋 Hiya, I’m Ellie Heywood!
 - 🎓 I am studying a BSc degree in Computer Science at the University of Southampton.
 - 🌱 Right now I am teaching myself C/C++.
-- ✨ I am currently working on a clone of the game Minesweeper.
+- ✨ I am currently working on a clone of the game Minesweeper and a few projects on the raspberry pi-pico!
 - 💬 Languages: Python, Java, Haskell, C
 - 💞️ Pronouns: she/her
 
