@@ -1,6 +1,6 @@
 - 👋 Hiya, I’m Ellie Heywood!
-- 🎓 I am studying a BSc degree in Computer Science at the University of Southampton.
-- ✨ I am currently working on my final year project, which is a toolbox for quantum computing. 
+- 🎓 I have completed my Undergraduate Computer Science Degree at the University of Southampton.
+- ✨ I am currently studying for a Masters in Thoeretical and Computational Chemistry at the University of Oxford. 
 - 💬 Languages: Python, Java, Haskell, C
 - 💞️ Pronouns: she/her
 
